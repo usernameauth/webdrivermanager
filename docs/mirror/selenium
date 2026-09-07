@@ -17,9 +17,6 @@
     "tag_name": "selenium-4.48.0",
     "assets": [
       {
-        "browser_download_url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.48.0/changes.patch"
-      },
-      {
         "browser_download_url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.48.0/selenium-dotnet-4.48.0.zip"
       },
       {
@@ -36,9 +33,6 @@
   {
     "tag_name": "selenium-4.47.0",
     "assets": [
-      {
-        "browser_download_url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.47.0/changes.patch"
-      },
       {
         "browser_download_url": "https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.47.0/selenium-dotnet-4.47.0.zip"
       },
